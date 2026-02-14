@@ -1,7 +1,7 @@
 
 # 🐍 PYTHON-SKILL
 
-Learn Python from Basics to Advanced with a structured roadmap designed for Machine Learning.
+Learn Python  with a structured roadmap designed for Machine Learning.
 
 ---
 
